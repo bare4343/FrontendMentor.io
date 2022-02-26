@@ -1,0 +1,32 @@
+body{
+
+  font-family: "Outfit";
+  text-align: center;
+  background-color: #6E85B2;
+
+}
+
+.card-title{
+  font-weight: 700;
+}
+
+.card{
+  width: 18rem;
+  border-radius: 5%;
+}
+
+.card-img-top{
+  padding: 7% 7%;
+  border-radius: 10%;
+}
+.card-text{
+  padding-bottom:  20px;
+}
+section{
+    height: 97vh;
+    width: 98vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
